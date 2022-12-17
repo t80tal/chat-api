@@ -11,4 +11,6 @@ Demo:
 
 https://cha-api9.herokuapp.com/
 
-Back office demo credentials: admin:string2
+You can test the back office:
+* username: admin
+* password: string2
