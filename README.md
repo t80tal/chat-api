@@ -9,7 +9,7 @@ To run:
 
 Demo: 
 
-https://cha-api9.herokuapp.com/
+https://chat-api9.herokuapp.com/
 
 You can test the back office:
 * username: admin
