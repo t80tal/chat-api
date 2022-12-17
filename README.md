@@ -10,7 +10,3 @@ To run:
 Demo: 
 
 https://chat-api9.herokuapp.com/
-
-You can test the back office:
-* username: admin
-* password: string2
