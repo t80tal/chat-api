@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "e1efbf2c-9983-48f2-a659-c38e1e1f0c5e",
+		"_postman_id": "a0ba92e8-1fd4-4620-aa6a-0df62f675ff6",
 		"name": "chat-app-requests",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
@@ -20,10 +20,10 @@
 					}
 				},
 				"url": {
-					"raw": "https://cha-api9.herokuapp.com/user/register/",
+					"raw": "https://chat-api9.herokuapp.com/user/register/",
 					"protocol": "https",
 					"host": [
-						"cha-api9",
+						"chat-api9",
 						"herokuapp",
 						"com"
 					],
@@ -57,10 +57,10 @@
 					}
 				},
 				"url": {
-					"raw": "https://cha-api9.herokuapp.com/user/login/",
+					"raw": "https://chat-api9.herokuapp.com/user/login/",
 					"protocol": "https",
 					"host": [
-						"cha-api9",
+						"chat-api9",
 						"herokuapp",
 						"com"
 					],
@@ -79,10 +79,10 @@
 				"method": "POST",
 				"header": [],
 				"url": {
-					"raw": "https://cha-api9.herokuapp.com/user/logout/",
+					"raw": "https://chat-api9.herokuapp.com/user/logout/",
 					"protocol": "https",
 					"host": [
-						"cha-api9",
+						"chat-api9",
 						"herokuapp",
 						"com"
 					],
@@ -116,10 +116,10 @@
 					}
 				},
 				"url": {
-					"raw": "https://cha-api9.herokuapp.com/message/create/",
+					"raw": "https://chat-api9.herokuapp.com/message/create/",
 					"protocol": "https",
 					"host": [
-						"cha-api9",
+						"chat-api9",
 						"herokuapp",
 						"com"
 					],
@@ -156,10 +156,10 @@
 					}
 				},
 				"url": {
-					"raw": "https://cha-api9.herokuapp.com/message/all/",
+					"raw": "https://chat-api9.herokuapp.com/message/all/",
 					"protocol": "https",
 					"host": [
-						"cha-api9",
+						"chat-api9",
 						"herokuapp",
 						"com"
 					],
@@ -196,10 +196,10 @@
 					}
 				},
 				"url": {
-					"raw": "https://cha-api9.herokuapp.com/message/unread",
+					"raw": "https://chat-api9.herokuapp.com/message/unread",
 					"protocol": "https",
 					"host": [
-						"cha-api9",
+						"chat-api9",
 						"herokuapp",
 						"com"
 					],
@@ -232,17 +232,17 @@
 					}
 				},
 				"url": {
-					"raw": "https://cha-api9.herokuapp.com/message/read/2/",
+					"raw": "https://chat-api9.herokuapp.com/message/read/1/",
 					"protocol": "https",
 					"host": [
-						"cha-api9",
+						"chat-api9",
 						"herokuapp",
 						"com"
 					],
 					"path": [
 						"message",
 						"read",
-						"2",
+						"1",
 						""
 					]
 				}
@@ -270,10 +270,10 @@
 					}
 				},
 				"url": {
-					"raw": "https://cha-api9.herokuapp.com/message/delete/1/",
+					"raw": "https://chat-api9.herokuapp.com/message/delete/1/",
 					"protocol": "https",
 					"host": [
-						"cha-api9",
+						"chat-api9",
 						"herokuapp",
 						"com"
 					],
